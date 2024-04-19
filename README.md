@@ -1,4 +1,4 @@
-# D3 tutorials - Radar Chart
+# D3 tutorials - Radar Chart test
 
 [D3.js](https://d3js.org/) 를 이용하여 시각화 5개 만들기
 
